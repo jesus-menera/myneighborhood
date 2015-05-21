@@ -1,0 +1,22 @@
+{
+  "name": "myneighborhood",
+  "version": "0.1.0",
+  "authors": [
+    "Jesus Menera <j.menera209@gmail.com>"
+  ],
+  "description": "Single Page app",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "js": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCpsW72G2ETZuv3ErnJ3GiXZjkxDVk0gUA",
+    "modernizr": "~2.8.2",
+    "knockout": "~3.3.0"
+  }
+}
